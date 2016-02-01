@@ -30,6 +30,4 @@ request( options, function ( error, response, body ){
     }
 
     console.log(getAll);
-    // console.log(nilai);
-    // console.log(nodes[0].firstChild.data);
 });
