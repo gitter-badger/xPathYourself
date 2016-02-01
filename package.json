@@ -1,0 +1,18 @@
+{
+  "name": "xpathyourself",
+  "version": "1.0.0",
+  "description": "xpathyourself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parse5": "^2.1.5",
+    "request": "^2.69.0",
+    "xmldom": "^0.1.21",
+    "xmlserializer": "^0.3.3",
+    "xpath": "0.0.21"
+  }
+}
